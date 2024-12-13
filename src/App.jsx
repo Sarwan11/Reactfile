@@ -1,5 +1,4 @@
 import React from "react";
-
 const App = () => {
   return (
     <div>
@@ -8,9 +7,7 @@ const App = () => {
     </div>
   );
 };
-
 export default App;
-
 function Playbutton() {
   function handlePlayButton() {
     return alert("playing the move button ");
